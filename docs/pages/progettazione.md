@@ -99,7 +99,7 @@ usate per ricavare *dati statistici e avvisi*.
 Il modello si occupa anche della gestione dei dati tramite file XML,
 controllandone le funzioni di creazione, salvataggio, caricamento ed
 esportazione, di cui verrà menzionato meglio il funzionamento in
-seguito.\
+seguito.
 Questa classe, inoltre, si occupa anche di **aggiungere ed eliminare
 oggetti** nei contenitori principali, gestendo gli esiti di ciascuna
 operazione.
@@ -147,7 +147,7 @@ di tipo `QWidget`, `QLayout` e, ovviamente, un puntatore profondo al
 modello. Questa implementazione permette l'aggiornamento degli elementi
 visualizzati solo strettamente necessari e stabilisce una comunicazione
 con il modello per le principali richieste di informazioni o di
-aggiornamento dei due contenitori.\
+aggiornamento dei due contenitori.
 Nota particolare è il metodo statico `cleanLayout(QLayout *)` che
 permette la cancellazione ricorsiva dei widget e dei layout figli,
 garantendone la cancellazione prima di un eventuale refresh.

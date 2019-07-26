@@ -102,9 +102,9 @@ Listino prezzi, punti risorse e consumi
   Server       Punti risorse       Nota
   ------------ ------------------- -------------------------
 
-  Hosting               1          \-
+  Hosting               1          -
   VPS                  2-4         Varia in base ai vCores
-  Dedicato              4          \-
+  Dedicato              4          -
 ```
 
 ``` 
@@ -112,7 +112,7 @@ Listino prezzi, punti risorse e consumi
   ------------ -------------- ----------------------  
   Hosting         1.2 Ghz     +25% con Turbo Boost
   VPS             2.1 Ghz     -5% con AntiDDoS
-  Dedicato        3.4 Ghz     \-
+  Dedicato        3.4 Ghz     -
 ```
 
 ```

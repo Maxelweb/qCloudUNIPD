@@ -14,7 +14,7 @@ hardware di una azienda denominata **qCloud Solutions** che offre
 servizi Web. L'azienda possiede una **server farm** in cui vengono
 erogati dei servizi che si differenziano per varie tipologie in base
 alle necessità dei clienti. Ciascun server ha un costo base fissato e un
-costo di risorse che varia in base alla configurazione.\
+costo di risorse che varia in base alla configurazione.
 I server messi a disposizioni si differenziano per tre tipologie
 principali:
 
