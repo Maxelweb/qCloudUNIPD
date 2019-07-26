@@ -1,8 +1,11 @@
 ---
 title: Conclusione
+layout: post
+author: Maxelweb
 ---
 
-#### [← Torna indietro](././)
+
+#### [← Torna indietro](../../)
 
 
 Timeline e riassunto ore di lavoro

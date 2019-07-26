@@ -1,8 +1,10 @@
 ---
 title: Introduzione al progetto
+layout: post
+author: Maxelweb
 ---
 
-#### [← Torna indietro](././)
+#### [← Torna indietro](../../)
 
 Abstract
 --------
