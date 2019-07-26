@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 logo: images/qcloud.png
 title: qCloud Manager
 description: Applicazione per la gestione di server e nodi hardware
-show_downloads: true
+breadcrumbs: true

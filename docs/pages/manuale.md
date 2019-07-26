@@ -1,13 +1,8 @@
 ---
 title: Manuale d'uso
-layout: post
 ---
 
-
-Breve manuale d'uso
-===================
-
-#### [← Torna indietro](./)
+#### [← Torna indietro](././)
 
 A prima apertura del programma, viene richiesta la creazione (*File,
 Nuovo*) o il caricamento (*File, Apri un nuovo file*) di un file XML che

@@ -1,12 +1,8 @@
 ---
 title: Introduzione al progetto
-layout: post
 ---
 
-Introduzione al progetto
-========================
-
-#### [← Torna indietro](./)
+#### [← Torna indietro](././)
 
 Abstract
 --------

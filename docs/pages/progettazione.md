@@ -1,13 +1,8 @@
 ---
 title: Progettazione
-layout: post
 ---
 
-
-Progettazione
-=============
-
-#### [← Torna indietro](./)
+#### [← Torna indietro](././)
 
 L'approccio di sviluppo per il progetto si è basato sul pattern
 **Model-View** di *Qt*. Oltre alla gerarchia e al gestore XML

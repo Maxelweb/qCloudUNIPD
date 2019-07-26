@@ -1,12 +1,8 @@
 ---
 title: Conclusione
-layout: post
 ---
 
-Conclusioni
-===========
-
-#### [← Torna indietro](./)
+#### [← Torna indietro](././)
 
 
 Timeline e riassunto ore di lavoro
