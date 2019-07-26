@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/styles/stylesheet.css</file>
+        <file>res/styles/icons/plus.svg</file>
+        <file>res/styles/icons/edit.svg</file>
+        <file>res/styles/images/logo.png</file>
+        <file>res/styles/icons/home.svg</file>
+        <file>res/styles/icons/nodes.svg</file>
+        <file>res/styles/icons/server.svg</file>
+        <file>res/data-nodes.xml</file>
+        <file>res/styles/icons/node.svg</file>
+        <file>res/styles/icons/info.svg</file>
+        <file>res/styles/icons/fixed/node.png</file>
+        <file>res/styles/icons/fixed/warning.png</file>
+        <file>res/styles/icons/notification.svg</file>
+        <file>res/styles/icons/no-notification.svg</file>
+        <file>res/styles/icons/delete.svg</file>
+        <file>res/styles/icons/check.svg</file>
+        <file>res/styles/icons/file.svg</file>
+        <file>res/styles/icons/deleteAll.svg</file>
+        <file>res/styles/icons/services.svg</file>
+        <file>res/styles/icons/back-right.svg</file>
+        <file>res/styles/icons/fixed/server.png</file>
+        <file>res/styles/images/splash.png</file>
+        <file>res/styles/images/icon.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodesList>
+    <node>
+        <id>a</id>
+        <name>general-cluster01</name>
+        <limits>12</limits>
+        <virtualized>yes</virtualized>
+    </node>
+    <node>
+        <id>b</id>
+        <name>north-dedicated01</name>
+        <limits>16</limits>        
+        <virtualized>no</virtualized>
+    </node>
+    <node>
+        <id>c</id>
+        <name>south-dedicated02</name>
+        <limits>24</limits>
+        <virtualized>no</virtualized>
+    </node>
+    <node>
+        <id>d</id>
+        <name>small-cluster02</name>
+        <limits>16</limits>
+        <virtualized>yes</virtualized>
+    </node>
+    <node>
+        <id>e</id>
+        <name>small-cluster03</name>
+        <limits>20</limits>
+        <virtualized>yes</virtualized>
+    </node>
+    <node>
+        <id>f</id>
+        <name>small-cluster04</name>
+        <limits>22</limits>
+        <virtualized>yes</virtualized>
+    </node>
+</nodesList>

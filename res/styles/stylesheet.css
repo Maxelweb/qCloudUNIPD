@@ -1,0 +1,217 @@
+
+/*
+ *  Progetto di Programmazione a Oggetti (2019) - Stylesheet QSS
+ *  Developed by Mariano Sciacco
+ */
+
+
+/* === Labels === */
+
+QLabel{
+    color: #444;
+    background-color: #FFF;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+QLabel[main-title="true"] {
+    color: #2f4c70;
+    padding-left: 10px;
+}
+
+QLabel[main-title="true"],
+QLabel[logo="true"],
+QLabel[section-desc="true"],
+QLabel[section-info-icon="true"]{
+    background-color: transparent;
+}
+
+QLabel[section-info-icon="true"]{
+    padding-top: 6px;
+    border-radius: 0;
+}
+
+QLabel[section-desc="true"]{
+    color: #666;
+    border-radius: 0px;
+    border-top: 1px solid #4570a5;
+    padding-top: 6px;
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
+
+QLabel[subtitle="true"]{
+    border: 1px solid #e3e6e8;
+    color: #4870a0;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    background-color: #f4f7f9;
+}
+
+QLabel[warn-text="true"]{
+    color: #c16e20;
+    padding: 5px;
+    margin-bottom: 2px;
+    background-color: #ffe2ad;
+}
+
+QLabel[not-icon="true"]{
+    background-color: transparent;
+    text-align: center;
+}
+
+QLabel.not-text{
+    padding: 3px;
+    font-size: 14pt;
+    margin-right: 20px;
+    background-color: #b51515;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #FFF;
+    border-bottom: 1px solid #5e0a0a;
+    border-right: 1px solid #5e0a0a;
+}
+
+QLabel.not-light{
+    background-color: #FAFAFA;
+    border-bottom-color: #888;
+    border-right-color: #999;
+    color: #666;
+}
+
+QLabel.footer-left,
+QLabel.footer-right-icon{
+    background-color: transparent;
+}
+
+QLabel.footer-right{
+    background-color: #647993;
+    color: #FAFAFA;
+    padding: 2px 4px;
+    border-bottom: 1px solid #666;
+    font-size: 12px;
+    border-radius: 2px;
+}
+
+QTableView{
+    background-color: transparent;
+    /*rgb(159, 191, 223);*/
+    padding: 5px;
+    border-radius: 3px;
+    gridline-color: #CCC;
+}
+
+
+/* === Box successo / errore === */
+
+.success-box{
+    background-color: green;
+    color: #FFF;
+    padding: 5px;
+}
+
+.error-box{
+    background-color: #b51515;
+    color: #FFF;
+    padding: 5px;
+}
+
+.hide-box{
+    background-color: transparent;
+}
+
+/* === Widgets vari === */
+
+QScrollArea, QScrollArea > QWidget{
+    background-color: transparent;
+}
+
+QTableView::item:selected {
+    color: #FFF;
+    background: #587a9b;
+}
+
+QTableView[table-nodes="true"]::item:selected {
+    background-color: #589b78;
+}
+
+QTableView[table-server="true"]::item:selected{
+    background-color: #6e589b;
+}
+
+QGroupBox {
+    border: 1px solid gray;
+    border-color: #4870a0;
+    margin-top: 27px;
+    font-size: 14px;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    background-color: #FFF;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    border-radius: 2px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 5px 10px;
+    background-color: #4870a0;
+    color: white;
+}
+
+QTabWidget{
+    padding: 8px;
+}
+
+/* === Progress Bar varie === */
+
+QProgressBar.progressBarra{
+    border: 1px solid green;
+    text-align: top;
+    padding: 1px;
+    border-radius: 3px;
+    background: QLinearGradient( x1: 0, y1: 0, x2: 1, y2: 0,
+    stop: 0 #fff,
+    stop: 0.5 #ddd,
+    stop: 1 #eee );
+    height: 5px;
+}
+
+QProgressBar.progressBarra::chunk{
+    background: QLinearGradient( x1: 0, y1: 0, x2: 1, y2: 0,
+    stop: 0 green,
+    stop: 0.5 green,
+    stop: 1 #28af1c );
+    border-radius: 2px;
+}
+
+QProgressBar.tiny{
+    background: #eee;
+    border-radius: 0;
+}
+
+QProgressBar.tiny::chunk{
+    background: #28af1c;
+    border-radius: 0;
+}
+
+QProgressBar.warning
+{ border-color: #af7e1c;
+  color: #FFF; }
+
+QProgressBar.warning::chunk
+{ background: #af7e1c; }
+
+QProgressBar.danger
+{ border-color: #af361c;
+  color: #FFF; }
+
+QProgressBar.danger::chunk
+{ background: #af361c; }
+
+/* === Box messaggi === */
+
+QMessageBox QLabel{
+    background-color: transparent;
+}

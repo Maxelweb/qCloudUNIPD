@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--QCloud Manager - File di salvataggio auto-generato-->
+<serverList>
+    <server type="Hosting">
+        <node>a</node>
+        <name>UnoPD website</name>
+        <ip>10.100.1.5</ip>
+        <core>1</core>
+        <ram>0.5</ram>
+        <disk>50</disk>
+        <sshaccess>no</sshaccess>
+        <turboboost>yes</turboboost>
+    </server>
+    <server type="Hosting">
+        <node>a</node>
+        <name>Eppol Website</name>
+        <ip>10.100.1.4</ip>
+        <core>1</core>
+        <ram>1.0</ram>
+        <disk>100</disk>
+        <sshaccess>yes</sshaccess>
+        <turboboost>yes</turboboost>
+    </server>
+    <server type="Dedicated">
+        <node>b</node>
+        <name>Eppol Computer</name>
+        <ip>10.43.4.1</ip>
+        <core>12</core>
+        <ram>16.0</ram>
+        <disk>240</disk>
+        <extraips>0</extraips>
+        <backup>no</backup>
+    </server>
+    <server type="Dedicated">
+        <node>c</node>
+        <name>BitCrumble</name>
+        <ip>10.42.4.1</ip>
+        <core>8</core>
+        <ram>4.0</ram>
+        <disk>240</disk>
+        <extraips>1</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Hosting">
+        <node>d</node>
+        <name>Megadownload Site</name>
+        <ip>10.2.1.6</ip>
+        <core>1</core>
+        <ram>1.0</ram>
+        <disk>40</disk>
+        <sshaccess>yes</sshaccess>
+        <turboboost>yes</turboboost>
+    </server>
+    <server type="VPS">
+        <node>d</node>
+        <name>Megadownload Deployment</name>
+        <ip>10.2.1.5</ip>
+        <core>8</core>
+        <ram>6.0</ram>
+        <disk>140</disk>
+        <snapshots>6</snapshots>
+        <antiddos>yes</antiddos>
+    </server>
+    <server type="Hosting">
+        <node>a</node>
+        <name>PrEv website</name>
+        <ip>10.100.1.3</ip>
+        <core>1</core>
+        <ram>0.5</ram>
+        <disk>60</disk>
+        <sshaccess>no</sshaccess>
+        <turboboost>yes</turboboost>
+    </server>
+    <server type="VPS">
+        <node>d</node>
+        <name>PrEv computers</name>
+        <ip>10.2.1.4</ip>
+        <core>8</core>
+        <ram>8.0</ram>
+        <disk>200</disk>
+        <snapshots>10</snapshots>
+        <antiddos>yes</antiddos>
+    </server>
+    <server type="Dedicated">
+        <node>c</node>
+        <name>Bugthesda Software Deploy</name>
+        <ip>10.42.1.1</ip>
+        <core>8</core>
+        <ram>4.0</ram>
+        <disk>240</disk>
+        <extraips>0</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Dedicated">
+        <node>c</node>
+        <name>Ebuy Market</name>
+        <ip>10.42.3.1</ip>
+        <core>8</core>
+        <ram>4.0</ram>
+        <disk>240</disk>
+        <extraips>2</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Dedicated">
+        <node>b</node>
+        <name>Macrosoft Corporation DevServer</name>
+        <ip>10.43.3.1</ip>
+        <core>12</core>
+        <ram>8.0</ram>
+        <disk>480</disk>
+        <extraips>10</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Hosting">
+        <node>a</node>
+        <name>Qoogle mirror</name>
+        <ip>10.100.1.2</ip>
+        <core>1</core>
+        <ram>1.0</ram>
+        <disk>100</disk>
+        <sshaccess>yes</sshaccess>
+        <turboboost>no</turboboost>
+    </server>
+    <server type="Hosting">
+        <node>a</node>
+        <name>ING Website</name>
+        <ip>10.100.1.1</ip>
+        <core>1</core>
+        <ram>1.0</ram>
+        <disk>100</disk>
+        <sshaccess>yes</sshaccess>
+        <turboboost>yes</turboboost>
+    </server>
+    <server type="Dedicated">
+        <node>b</node>
+        <name>ING Banking</name>
+        <ip>10.43.2.1</ip>
+        <core>12</core>
+        <ram>8.0</ram>
+        <disk>480</disk>
+        <extraips>2</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Dedicated">
+        <node>c</node>
+        <name>iZod Backups</name>
+        <ip>10.42.2.1</ip>
+        <core>8</core>
+        <ram>4.0</ram>
+        <disk>480</disk>
+        <extraips>1</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="Dedicated">
+        <node>b</node>
+        <name>Amazonia Services</name>
+        <ip>10.43.1.1</ip>
+        <core>16</core>
+        <ram>12.0</ram>
+        <disk>480</disk>
+        <extraips>8</extraips>
+        <backup>yes</backup>
+    </server>
+    <server type="VPS">
+        <node>d</node>
+        <name>vps-testing</name>
+        <ip>10.2.1.3</ip>
+        <core>1</core>
+        <ram>1.5</ram>
+        <disk>30</disk>
+        <snapshots>6</snapshots>
+        <antiddos>no</antiddos>
+    </server>
+    <server type="VPS">
+        <node>d</node>
+        <name>vps-prod3</name>
+        <ip>10.2.1.2</ip>
+        <core>8</core>
+        <ram>4.0</ram>
+        <disk>120</disk>
+        <snapshots>2</snapshots>
+        <antiddos>yes</antiddos>
+    </server>
+    <server type="VPS">
+        <node>f</node>
+        <name>vps-prod2</name>
+        <ip>10.1.1.2</ip>
+        <core>2</core>
+        <ram>3.5</ram>
+        <disk>40</disk>
+        <snapshots>1</snapshots>
+        <antiddos>no</antiddos>
+    </server>
+    <server type="VPS">
+        <node>d</node>
+        <name>vps-prod1</name>
+        <ip>10.2.1.1</ip>
+        <core>4</core>
+        <ram>6.0</ram>
+        <disk>60</disk>
+        <snapshots>0</snapshots>
+        <antiddos>yes</antiddos>
+    </server>
+</serverList>
