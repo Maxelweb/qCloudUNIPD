@@ -1,3 +1,8 @@
+---
+title: Manuale d'uso
+layout: post
+---
+
 
 Breve manuale d'uso
 ===================

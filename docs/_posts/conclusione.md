@@ -1,4 +1,7 @@
-
+---
+title: Conclusione
+layout: post
+---
 
 Conclusioni
 ===========

@@ -1,3 +1,8 @@
+---
+title: Introduzione al progetto
+layout: post
+---
+
 Introduzione al progetto
 ========================
 

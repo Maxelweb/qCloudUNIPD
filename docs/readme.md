@@ -11,10 +11,10 @@ Matematica, UniPD*
 
 ### Relazione online
 
-- [Introduzione al progetto](sec/intro.md)
-- [Manuale del software](sec/manuale.md)
-- [Progettazione del software](sec/progettazione.md)
-- [Conclusioni](sec/conclusione.md)
+- [Introduzione al progetto](_posts/intro.md)
+- [Manuale del software](_posts/manuale.md)
+- [Progettazione del software](_posts/progettazione.md)
+- [Conclusioni](_posts/conclusione.md)
 
 ### Galleria
 

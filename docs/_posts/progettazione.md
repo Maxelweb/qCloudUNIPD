@@ -1,3 +1,8 @@
+---
+title: Progettazione
+layout: post
+---
+
 
 Progettazione
 =============
@@ -9,7 +14,7 @@ ricerca che comunicano alla view i cambiamenti del modello. In questa
 sezione verranno analizzati gli elementi principali del modello e della
 view, facendo chiarezza sulle opportune dipendenze.
 
-![gerarchia](images/gerarchia)
+![gerarchia](images/gerarchia.png)
 
 Modello e Gerarchia
 -------------------
