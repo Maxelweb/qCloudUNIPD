@@ -46,3 +46,5 @@ Il progetto è stato valutato come **Eccellente**.
 ### Altro
 
 - [Download relazione di progetto](docs/download/relazione.pdf)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6VK9N)

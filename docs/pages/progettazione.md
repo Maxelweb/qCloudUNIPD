@@ -7,6 +7,8 @@ layout: post
 Progettazione
 =============
 
+#### [← Torna indietro](./)
+
 L'approccio di sviluppo per il progetto si è basato sul pattern
 **Model-View** di *Qt*. Oltre alla gerarchia e al gestore XML
 input/output, sono stati realizzati degli adattatori e un filtro di

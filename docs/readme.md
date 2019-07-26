@@ -1,6 +1,3 @@
-
-![image](images/qcloud.png)
-
 # qCloud Manager - Progetto di programmazione a oggetti
 
 *Corso di Laurea in Informatica, Scuola di Scienze, Dipartimento di
@@ -11,10 +8,10 @@ Matematica, UniPD*
 
 ### Relazione online
 
-- [Introduzione al progetto](_posts/intro.md)
-- [Manuale del software](_posts/manuale.md)
-- [Progettazione del software](_posts/progettazione.md)
-- [Conclusioni](_posts/conclusione.md)
+- [Introduzione al progetto](pages/intro.md)
+- [Manuale del software](pages/manuale.md)
+- [Progettazione del software](pages/progettazione.md)
+- [Conclusioni](pages/conclusione.md)
 
 ### Galleria
 

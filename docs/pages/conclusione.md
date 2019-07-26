@@ -6,6 +6,9 @@ layout: post
 Conclusioni
 ===========
 
+#### [← Torna indietro](./)
+
+
 Timeline e riassunto ore di lavoro
 ----------------------------------
 
