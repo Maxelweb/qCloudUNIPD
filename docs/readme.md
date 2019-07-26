@@ -21,7 +21,7 @@ Matematica, UniPD*
 
 - [Download relazione di progetto - PDF - 266KB](download/relazione.pdf)
 
-> Per [maggiori informazioni](https://maxelweb.github.com/qCloudUNIPD), si consiglia di proseguire alla repository.
+> Per [maggiori informazioni](https://github.com/Maxelweb/qCloudUNIPD), si consiglia di proseguire alla repository.
 
 
 ### Galleria
