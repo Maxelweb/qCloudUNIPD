@@ -58,8 +58,10 @@ contiene la posizione di tutti i file e identifica la versione specifica
 usata per C++, ossia C++11, di cui se ne fa uso nel modello con keywords
 apposite.
 
-`$ qmake qCloudManager.pro`\
-`$ make`
+```
+$ qmake qCloudManager.pro
+$ make
+```
 
 A primo avvio, è possibile creare un nuovo file dal menù oppure può
 essere caricato un file dati compatibile. Nella cartella del progetto,

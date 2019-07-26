@@ -1,5 +1,5 @@
 ---
-title: Manuale d'uso
+title: Manuale del software
 layout: post
 author: Maxelweb
 ---
